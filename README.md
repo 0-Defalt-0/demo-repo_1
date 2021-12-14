@@ -1,4 +1,4 @@
-**FCC guide to github and git**
+#FCC guide to github and git\
 This guide is my walkthrough of github and its bells and whistles\
 i will be learning how to upload my project on the remote repo\
 and also learning how to contribute to the open source community\ 
